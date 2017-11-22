@@ -202,3 +202,5 @@ Ajuste o arquivo
 ```sh
 <ion-nav [root]="rootPage" [class]="selectedTheme"></ion-nav>
 ```
+
+Execute o comando no prompt `ionic serve` e veja o aplicativo em ação!
