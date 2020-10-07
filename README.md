@@ -204,3 +204,13 @@ Ajuste o arquivo
 ```
 
 Execute o comando no prompt `ionic serve` e veja o aplicativo em ação!
+
+# VEJA TAMBÉM
+## Grupo de Estudo no Telegram
+- [Participe gratuitamente do grupo de estudo](https://t.me/blogilovecode)
+
+## Cursos baratos!
+- [Meus cursos](https://olha.la/udemy)
+
+## Novidades, cupons de descontos e cursos gratuitos
+https://olha.la/ilovecode-receber-cupons-novidades
